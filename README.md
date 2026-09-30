@@ -1,7 +1,8 @@
 # Metehan Demirel
 **Computer Science Student at AYBÜ | Software Developer**
+📍 Based in Turkey | 🗣️️ Fluent in English
 
-I am a Computer Science student focused on software engineering, system architecture, and backend development. I enjoy building practical tools, optimizing systems, and working hands-on with Linux environments. Currently, I am expanding my knowledge in containerization and networking while developing scalable applications. 
+I am a Computer Science student driven by building innovative solutions to real-life problems. My focus spans across software engineering, system architecture, and exploring the realms of game and app development. I thrive on continuously expanding my technical stack to build scalable, practical, and impactful software.
 
 ---
 
@@ -10,31 +11,31 @@ I am a Computer Science student focused on software engineering, system architec
 ### [Project Name] 
 > **[Link to Repository](https://github.com/metebob/your-repo-link)**
 
-A brief, 1-2 sentence description of what the project actually does and why you built it. Keep it focused on the problem it solves or the functionality it provides.
+A brief, 1-2 sentence description of the real-world problem this project solves and the innovative approach you took to build it.
 
-* **Tech Stack:** Python, [Other Tech 1], [Other Tech 2]
+* **Tech Stack:** C#, .NET 8, [Other Tech]
 * **Key Features:**
-  * Bullet point highlighting a specific technical challenge you solved (e.g., "Implemented dependency resolution for version management").
-  * Bullet point detailing how it works under the hood (e.g., "Automated build processes using bash scripting").
-  * Bullet point on user impact or efficiency (e.g., "Reduced setup time by automating environment configurations").
-
-*You can copy and paste this exact block when you are ready to publish your next project.*
+  * Solved [Specific Problem] by implementing [Specific Solution/Architecture].
+  * Built an efficient backend process or intuitive user experience.
+  * [Add any performance metric or interesting technical hurdle overcome].
 
 ---
 
 ## 💻 Technical Arsenal
 
-* **Languages:** Python, C/C++, Bash
-* **Tools & Technologies:** Docker, Git, REST APIs
-* **Systems & Administration:** Linux (Fedora/Arch), Networking, Containerization
+* **Languages:** C#, Python, TypeScript, C/C++, Bash
+* **Frameworks & Apps:** .NET 8, ASP.NET Core, FastAPI, WinForms, PWA
+* **Data & ORM:** SQL Server, SQLite, EF Core
+* **AI, Vision & Math:** OpenCV, ONNX Runtime, SGP4
+* **DevOps & Architecture:** Docker, GitHub Actions, Git, Linux Environments
 
 ---
 
-## 🔬 Currently Exploring
+## 🔬 Current Focus & Interests
 *Building out my knowledge base behind the scenes before pushing to production:*
-* Configuring self-hosted LLM architectures and agents using Docker.
-* Exploring deep packet inspection (DPI) bypasses and custom network routing on Linux.
-* Advanced package management and system optimization.
+* **Game & App Development:** Exploring interactive environments and scalable application design.
+* **Continuous Learning:** Constantly adapting to new frameworks, libraries, and best practices.
+* **Systems Engineering:** Containerization, self-hosted environments, and custom network routing.
 
 ---
 
