@@ -40,5 +40,5 @@ A brief, 1-2 sentence description of the real-world problem this project solves 
 ---
 
 ## Connect With Me Via
-* **LinkedIn:** [Go to my profile](https://www.linkedin.com/in/metehan-demirel-b10036440/)
+* **LinkedIn:** [linkedin.com/in/metehan-demirel](https://www.linkedin.com/in/metehan-demirel-b10036440/)
 * **Email:** metehandemirelbusiness@gmail.com
